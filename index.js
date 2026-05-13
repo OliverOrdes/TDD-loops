@@ -227,6 +227,7 @@ export function moveWater(colander, bucket) {
     }
   }
   return trips;
+  console.debug(moveWater(3, 6));
 }
 
 /**
