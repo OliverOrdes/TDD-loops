@@ -1,7 +1,6 @@
 {
   "name": "tdd-loops",
   "main": "index.js",
-  "type": "module"
   "scripts": {
     "test": "vitest"
   },
